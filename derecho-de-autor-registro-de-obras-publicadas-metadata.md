@@ -49,9 +49,7 @@ Recursos disponibles
 
 -   **titular\_nombre (string):** nombre del titular del derecho de propiedad intelectual
 
--   **titular\_apellido (string):** apellido del titular del derecho de propiedad intelectual
-
--   **obra\_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Para más referencias consultar <http://www.isbn.org.ar>
+-   **obra\_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
 Notas
 -----
