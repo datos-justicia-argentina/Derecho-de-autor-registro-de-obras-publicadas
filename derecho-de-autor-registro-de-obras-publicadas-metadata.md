@@ -27,7 +27,7 @@ Recursos disponibles
 
 ### Derecho de Autor. Obras publicadas AAAA
 
--   **Nombre del archivo:** derecho-de-autor-AAAA.csv
+-   **Nombre del archivo:** derecho-autor-AAAA.csv
 
 -   **Descripción del contenido:** detalle de las obras alcanzadas por la Ley 11.723 de Régimen Legal de la Propiedad Intelectual registradas en la Dirección Nacional del Derecho de Autor.
 
