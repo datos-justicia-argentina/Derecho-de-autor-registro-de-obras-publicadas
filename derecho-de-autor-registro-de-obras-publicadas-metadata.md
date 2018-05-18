@@ -51,6 +51,15 @@ Recursos disponibles
 
 -   **obra\_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
+### Derecho de Autor. Obras publicadas AAAA
+
+-   **Nombre del archivo:** derecho-autor-AAAA.zip
+
+-   **Descripción del contenido:** darchivo comprimido que contiene las obras registradas en la Dirección Nacional del Derecho de Autor.
+
+-   **Formato:** ZIP
+
+
 Notas
 -----
 
