@@ -53,9 +53,9 @@ Recursos disponibles
 
 ### Derecho de Autor. Obras publicadas AAAA
 
--   **Nombre del archivo:** derecho-autor-AAAA.zip
+-   **Nombre del archivo:** derecho-autor-AAAA-AAAA.zip
 
--   **Descripción del contenido:** darchivo comprimido que contiene las obras registradas en la Dirección Nacional del Derecho de Autor.
+-   **Descripción del contenido:** darchivo comprimido que contiene las obras registradas en la Dirección Nacional del Derecho de Autor entre años.
 
 -   **Formato:** ZIP
 
