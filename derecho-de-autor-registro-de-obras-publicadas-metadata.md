@@ -33,6 +33,8 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
+-   **Rango temporal:** obras publicadas desde enero de 2017 hasta la fecha consignada como "Datos actualizados al"
+
 ### Campos del recurso
 
 -   **expediente\_numero (string):** número de expediente de ingreso
@@ -67,4 +69,4 @@ Notas
 
 [Ley 11.723](http://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº ¿?? del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del ¿? de mayo de 2018.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
