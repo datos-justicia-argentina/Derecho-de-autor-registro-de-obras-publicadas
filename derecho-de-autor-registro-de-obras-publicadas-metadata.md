@@ -33,25 +33,25 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** obras publicadas desde enero de 2017 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** detalle de las obras publicadas desde enero de 2017 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **expediente\_numero (string):** número de expediente de ingreso
+-   **expediente_numero (string):** número de expediente de ingreso
 
--   **expediente\_fecha\_ingreso:(string):** fecha de ingreso del expediente
+-   **expediente_fecha_ingreso:(string):** fecha de ingreso del expediente
 
--   **obra\_tipo (string):** tipo de obra. Toma los valores:
+-   **obra_tipo (string):** tipo de obra. Toma los valores:
 
--   **obra\_genero (string):** género de la obra. Puede tomar los valores: ARTISTICO, CIENTIFICO, CINEMATOGRAFICO, DIDACTICO, FONOGRAMA, GEOGRAFICO, HISTORICO, HISTORIETA, INFANTIL, INFORME, INTERES GENERAL, INTERNET, JURIDICO, LETRA, LITERARIO, MUSICA, MUSICA Y LETRA, PAGINA WEB, PERIODISTICO, PROGRAMA COMPUTACION, PROGRAMA DE RADIO, PROGRAMA DE TV, RECURSO, RELIGIOSO, TEATRAL, TECNICO, VIDEO, entre otros
+-   **obra_genero (string):** género de la obra. Puede tomar los valores: ARTISTICO, CIENTIFICO, CINEMATOGRAFICO, DIDACTICO, FONOGRAMA, GEOGRAFICO, HISTORICO, HISTORIETA, INFANTIL, INFORME, INTERES GENERAL, INTERNET, JURIDICO, LETRA, LITERARIO, MUSICA, MUSICA Y LETRA, PAGINA WEB, PERIODISTICO, PROGRAMA COMPUTACION, PROGRAMA DE RADIO, PROGRAMA DE TV, RECURSO, RELIGIOSO, TEATRAL, TECNICO, VIDEO, entre otros
 
--   **obra\_titulo (string):** título de la obra
+-   **obra_titulo (string):** título de la obra
 
--   **titular\_rol (string):** titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos
+-   **titular_rol (string):** titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos
 
--   **titular\_nombre (string):** nombre del titular del derecho de propiedad intelectual
+-   **titular_nombre (string):** nombre del titular del derecho de propiedad intelectual
 
--   **obra\_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
+-   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
 ### Derecho de Autor. Obras publicadas AAAA
 
@@ -60,7 +60,6 @@ Recursos disponibles
 -   **Descripción del contenido:** darchivo comprimido que contiene las obras registradas en la Dirección Nacional del Derecho de Autor entre años.
 
 -   **Formato:** ZIP
-
 
 Notas
 -----
