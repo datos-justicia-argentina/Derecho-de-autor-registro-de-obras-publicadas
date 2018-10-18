@@ -8,7 +8,7 @@ En este conjunto de datos se identifican las obras publicadas registradas en la 
 Características
 ---------------
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 24/08/2018
 
 -   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción
 
