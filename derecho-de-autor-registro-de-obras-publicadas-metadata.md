@@ -71,6 +71,8 @@ Recursos disponibles
 
 Notas
 -----
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 [Ley 11.723 - Régimen Legal de la Propiedad Intelectual](http://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm)
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
