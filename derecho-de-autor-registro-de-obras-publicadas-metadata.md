@@ -37,23 +37,29 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **expediente_numero (string):** número de expediente de ingreso
+-   **registro_numero (string):** número de registro con el que se inscribe la obra. (el nombre de este campo fue modificado a partir del año 2017)
 
--   **expediente_fecha_ingreso:(string):** fecha de ingreso del expediente
+-   **registro_fecha_ingreso:(string):** fecha en la que registra la obra. (el nombre de este campo fue modificado a partir del año 2017) fecha en la que se registra la obra
 
--   **obra_tipo (string):** tipo de obra. Toma los valores:
+-   **obra_tipo (string):** tipo de obra
 
 -   **obra_genero (string):** género de la obra. Puede tomar los valores: ARTISTICO, CIENTIFICO, CINEMATOGRAFICO, DIDACTICO, FONOGRAMA, GEOGRAFICO, HISTORICO, HISTORIETA, INFANTIL, INFORME, INTERES GENERAL, INTERNET, JURIDICO, LETRA, LITERARIO, MUSICA, MUSICA Y LETRA, PAGINA WEB, PERIODISTICO, PROGRAMA COMPUTACION, PROGRAMA DE RADIO, PROGRAMA DE TV, RECURSO, RELIGIOSO, TEATRAL, TECNICO, VIDEO, entre otros
 
 -   **obra_titulo (string):** título de la obra
 
--   **titular_rol (string):** titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos
+-   **participacion_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos. (el nombre de este campo fue modificado a partir del año 2017)
 
--   **titular_nombre (string):** nombre del titular del derecho de propiedad intelectual
+-   **participante_nombre (string):** nombre del titular del derecho de propiedad intelectual. (el nombre de este campo fue modificado a partir del año 2017)
+
+-   **titular_tipo_persona (string):** tipo de titular del derecho de propiedad intelectual. (este campo es informado a partir del año 2017). Puede tomar los valores:
+
+  -   Persona Física
+  
+  -   Persona Jurídica
 
 -   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
-### Derecho de Autor. Obras publicadas AAAA - por año
+### Derecho de Autor. Obras publicadas AAAA-AAAA - por año
 
 -   **Nombre del archivo:** derecho-autor-AAAA-AAAA.zip
 
@@ -61,7 +67,7 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
-### Derecho de Autor. Obras publicadas AAAA - unificado
+### Derecho de Autor. Obras publicadas AAAA-AAAA - unificado
 
 -   **Nombre del archivo:** derecho-autor-unificado-AAAA-AAAA.zip
 
