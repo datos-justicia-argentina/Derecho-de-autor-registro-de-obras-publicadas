@@ -39,7 +39,7 @@ Recursos disponibles
 
 -   **registro_numero (string):** número de registro con el que se inscribe la obra. (el nombre de este campo fue modificado a partir del año 2017)
 
--   **registro_fecha_ingreso:(string):** fecha en la que registra la obra. (el nombre de este campo fue modificado a partir del año 2017) fecha en la que se registra la obra
+-   **registro_fecha_ingreso:(string):** fecha en la que registra la obra. (el nombre de este campo fue modificado a partir del año 2017)
 
 -   **obra_tipo (string):** tipo de obra
 
