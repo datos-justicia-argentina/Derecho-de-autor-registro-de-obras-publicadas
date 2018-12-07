@@ -20,7 +20,7 @@ Características
 
 -   **Grupo:** Sistema Registral
 
--   **Frecuencia de Actualización:** Mensualmente
+-   **Frecuencia de Actualización:** Trimestralmente
 
 Recursos disponibles
 --------------------
