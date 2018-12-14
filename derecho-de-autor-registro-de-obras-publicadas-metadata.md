@@ -82,6 +82,8 @@ Notas
 
 [Ley 11.723 - Régimen Legal de la Propiedad Intelectual](http://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm)
 
-[Disposición 7/2018 - Presntación de las Declaraciones Juradas por medio del sistema de Plataforma de Trámites a Distancia (TAD)(http://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/311552/norma.htm)
+[Decreto Nº 16.697 - Declaración jurada de obras editadas](http://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/85124/norma.htm)
+
+[Disposición 7/2018 - Declaraciones juradas de obras editadas por medio del sistema de Plataforma de Trámites a Distancia (TAD)(http://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/311552/norma.htm)
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
