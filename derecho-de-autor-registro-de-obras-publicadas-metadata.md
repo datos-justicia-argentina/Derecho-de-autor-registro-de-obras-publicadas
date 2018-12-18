@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 24/08/2018
 
--   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción
+-   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción, declaraciones juradas
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
 
