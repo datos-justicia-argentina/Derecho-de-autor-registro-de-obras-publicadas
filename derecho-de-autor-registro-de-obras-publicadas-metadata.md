@@ -59,9 +59,9 @@ Recursos disponibles
 
 -   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
-### Declaraciones juradas de obras editadas AAAA
+### Declaraciones juradas de obras editadas - AAAA
 
--   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA-MM.csv
+-   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.csv
 
 -   **Descripción del contenido:** se detallan las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor
 
