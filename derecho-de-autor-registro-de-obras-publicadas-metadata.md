@@ -71,7 +71,9 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **ddjj_fecha (date):** fecha del mes que se está declarando en la DDJJ. La fecha de la declaración juarada puede ser posterior a la fecha de las obra editada
+-   **ddjj_fecha (date):** fecha de la presentación de la declaración jurada
+
+-   **ddjj_mes_informado (date):** mes que se está informado en la DDJJ. La fecha de la declaración juarada puede ser posterior a la fecha de las obra editada
 
 -   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
