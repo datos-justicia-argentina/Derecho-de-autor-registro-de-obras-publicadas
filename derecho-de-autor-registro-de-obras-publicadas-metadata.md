@@ -20,7 +20,7 @@ Características
 
 -   **Grupo:** Sistema Registral
 
--   **Frecuencia de Actualización:** Mensualmente
+-   **Frecuencia de Actualización:** Trimestralmente
 
 Recursos disponibles
 --------------------
@@ -37,9 +37,9 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **registro_numero (string):** número de registro con el que se inscribe la obra. (el nombre de este campo fue modificado a partir del año 2017)
+-   **registro_numero (string):** número de registro con el que se inscribe la obra
 
--   **registro_fecha_ingreso:(string):** fecha en la que registra la obra. (el nombre de este campo fue modificado a partir del año 2017)
+-   **registro_fecha_ingreso (string):** fecha en la que registra la obra
 
 -   **obra_tipo (string):** tipo de obra
 
@@ -47,9 +47,9 @@ Recursos disponibles
 
 -   **obra_titulo (string):** título de la obra
 
--   **participacion_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos. (el nombre de este campo fue modificado a partir del año 2017)
+-   **participacion_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos
 
--   **participante_nombre (string):** nombre del titular del derecho de propiedad intelectual. (el nombre de este campo fue modificado a partir del año 2017)
+-   **participante_nombre (string):** nombre del titular del derecho de propiedad intelectual
 
 -   **titular_tipo_persona (string):** tipo de titular del derecho de propiedad intelectual. (este campo es informado a partir del año 2017). Puede tomar los valores:
 
@@ -91,6 +91,38 @@ Recursos disponibles
 
 -   **tirada (string):** cantidad de ejemplares que si imprimen de la obra
 
+### Derecho de Autor. Publicaciones periódicas AAAA
+
+-   **Nombre del archivo:** derecho-autor-publicaciones_periodicas-AAAA.csv
+
+-   **Descripción del contenido:** detalle de las publicaciones que se editan en fascículos, numeradas consecutivamente y organizadas para su continuación indefinida; contienen información de diversos temas ordenados según una estructura determinada
+
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal:** detalle de las publicaciones periódicas desde agosto de 2018 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+-   **registro_numero (string):** número de registro con el que se inscribe la obra
+
+-   **publicacion_fecha (date):** fecha en la que registra la obra
+
+-   **publicacion_renovacion (string):** indica si la obra fue renovada. Las renovaciones se realizan en forma anual
+
+-   **obra_genero (string):** género al que pertenece la obra. Puede tomar los valores: ARTISTICO, CIENTIFICO, COOPERTIVO, CINEMATOGRAFICO, DIDACTICO, ECONOMIA, EDUCATIVO, INTERES GENERAL, JURIDICO, LITERARIO, MUSICAL, entre otros
+
+-   **obra_titulo (string):** título de la obra
+
+-   **titular_persona_tipo (string):** tipo de titular del derecho de propiedad intelectual. Puede tomar los valores:
+
+-   Persona Física
+
+-   Persona Jurídica
+
+-   **participacion_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos.
+
+-   **participante_nombre (string):** nombre del titular del derecho de propiedad intelectual
+
 ### Derecho de Autor. Obras publicadas AAAA-AAAA - por año
 
 -   **Nombre del archivo:** derecho-autor-AAAA-AAAA.zip
@@ -108,9 +140,18 @@ Recursos disponibles
 -   **Formato:** ZIP
 
 ### Declaraciones juradas de obras editadas - AAAA
+
 -   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.zip
 
 -   **Descripción del contenido:** archivo comprimido que contiene las declaraciones juradas de obras editadas en el año AAAA.
+
+-   **Formato:** ZIP
+
+### Derecho de Autor. Publicacione periódicas - AAAA
+
+-   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido que contiene las publicaciones periódicas en el año AAAA.
 
 -   **Formato:** ZIP
 
