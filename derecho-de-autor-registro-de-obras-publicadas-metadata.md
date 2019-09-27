@@ -27,11 +27,11 @@ Recursos disponibles
 
 ### Derecho de Autor. Obras publicadas AAAA
 
--   **Nombre del archivo:** derecho-autor-AAAA.csv
+-   **Nombre del archivo:** derecho-autor-AAAA.csv / derecho-autor-AAAA.xls
 
 -   **Descripción del contenido:** detalle de las obras alcanzadas por la Ley 11.723 de Régimen Legal de la Propiedad Intelectual registradas en la Dirección Nacional del Derecho de Autor.
 
--   **Formato:** CSV delimitado por comas, codificado en UTF-8
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
 
 -   **Rango temporal:** detalle de las obras publicadas desde julio de 1999 hasta la fecha consignada como "Datos actualizados al"
 
@@ -61,11 +61,11 @@ Recursos disponibles
 
 ### Declaraciones juradas de obras editadas - AAAA
 
--   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.csv
+-   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.csv / declaraciones-juradas-obras-editadas-AAAA.xls
 
 -   **Descripción del contenido:** se detallan las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor
 
--   **Formato:** CSV delimitado por comas, codificado en UTF-8
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
 
 -   **Rango temporal:** Declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor desde la implementación del sistema de Plataforma de Trámites a Distancia hasta la fecha consignada como "Datos actualizados al"
 
@@ -93,11 +93,11 @@ Recursos disponibles
 
 ### Derecho de Autor. Publicaciones periódicas AAAA
 
--   **Nombre del archivo:** derecho-autor-publicaciones_periodicas-AAAA.csv
+-   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.csv / derecho-autor-publicaciones-periodicas-AAAA.xls
 
 -   **Descripción del contenido:** detalle de las publicaciones que se editan en fascículos, numeradas consecutivamente y organizadas para su continuación indefinida; contienen información de diversos temas ordenados según una estructura determinada
 
--   **Formato:** CSV delimitado por comas, codificado en UTF-8
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
 
 -   **Rango temporal:** detalle de las publicaciones periódicas desde agosto de 2018 hasta la fecha consignada como "Datos actualizados al"
 
