@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Derecho de Autor. Obras publicadas AAAA
+### Derecho de Autor. Obras publicadas AAAA (CSV/XLS)
 
 -   **Nombre del archivo:** derecho-autor-AAAA.csv / derecho-autor-AAAA.xls
 
@@ -59,7 +59,7 @@ Recursos disponibles
 
 -   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
-### Declaraciones juradas de obras editadas - AAAA
+### Declaraciones juradas de obras editadas - AAAA (CSV/XLS)
 
 -   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.csv / declaraciones-juradas-obras-editadas-AAAA.xls
 
@@ -91,7 +91,7 @@ Recursos disponibles
 
 -   **tirada (string):** cantidad de ejemplares que si imprimen de la obra
 
-### Derecho de Autor. Publicaciones periódicas AAAA
+### Derecho de Autor. Publicaciones periódicas AAAA (CSV/XLS)
 
 -   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.csv / derecho-autor-publicaciones-periodicas-AAAA.xls
 
