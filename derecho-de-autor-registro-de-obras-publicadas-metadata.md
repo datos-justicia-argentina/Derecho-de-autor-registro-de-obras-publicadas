@@ -1,4 +1,4 @@
-Derecho de Autor. Registro de obras publicadas
+Derecho de autor. Registro de obras publicadas
 ==============================================
 
 En este conjunto de datos se identifican las obras publicadas registradas en la Dirección Nacional del Derecho de Autor, según lo dispuesto en la [Ley 11.723](http://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm), Régimen Legal de la Propiedad Intelectual,
@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 24/08/2018
 
--   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción, declaraciones juradas
+-   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
 
@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Derecho de Autor. Obras publicadas AAAA (CSV/XLS)
+### Derecho de autor. Obras publicadas AAAA
 
 -   **Nombre del archivo:** derecho-autor-AAAA.csv / derecho-autor-AAAA.xls
 
@@ -59,71 +59,7 @@ Recursos disponibles
 
 -   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
-### Declaraciones juradas de obras editadas - AAAA (CSV/XLS)
-
--   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.csv / declaraciones-juradas-obras-editadas-AAAA.xls
-
--   **Descripción del contenido:** se detallan las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor
-
--   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
-
--   **Rango temporal:** Declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor desde la implementación del sistema de Plataforma de Trámites a Distancia hasta la fecha consignada como "Datos actualizados al"
-
-### Campos del recurso
-
--   **ddjj_fecha (date):** fecha de la presentación de la declaración jurada
-
--   **ddjj_mes_informado (date):** mes que se está informado en la DDJJ. La fecha de la declaración juarada puede ser posterior a la fecha de las obra editada
-
--   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
-
--   **obra_sello (string):** sello de la editorial
-
--   **obra_titulo (string):** título de la obra
-
--   **obra_autor (string):** autor de la obra
-
--   **participacion_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos.
-
--   **obra_edicion (string):** se describe a que edición pertenece la obra
-
--   **obra_impresor (string):** firma responsable de hacer las impresiones de la obra
-
--   **tirada (string):** cantidad de ejemplares que si imprimen de la obra
-
-### Derecho de Autor. Publicaciones periódicas AAAA (CSV/XLS)
-
--   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.csv / derecho-autor-publicaciones-periodicas-AAAA.xls
-
--   **Descripción del contenido:** detalle de las publicaciones que se editan en fascículos, numeradas consecutivamente y organizadas para su continuación indefinida; contienen información de diversos temas ordenados según una estructura determinada
-
--   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
-
--   **Rango temporal:** detalle de las publicaciones periódicas desde agosto de 2018 hasta la fecha consignada como "Datos actualizados al"
-
-### Campos del recurso
-
--   **registro_numero (string):** número de registro con el que se inscribe la obra
-
--   **publicacion_fecha (date):** fecha en la que registra la obra
-
--   **publicacion_renovacion (string):** indica si la obra fue renovada. Las renovaciones se realizan en forma anual
-
--   **obra_genero (string):** género al que pertenece la obra. Puede tomar los valores: ARTISTICO, CIENTIFICO, COOPERTIVO, CINEMATOGRAFICO, DIDACTICO, ECONOMIA, EDUCATIVO, INTERES GENERAL, JURIDICO, LITERARIO, MUSICAL, entre otros
-
--   **obra_titulo (string):** título de la obra
-
--   **titular_persona_tipo (string):** tipo de titular del derecho de propiedad intelectual. Puede tomar los valores:
-
--   Persona Física
-
--   Persona Jurídica
-
--   **participacion_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos.
-
--   **participante_nombre (string):** nombre del titular del derecho de propiedad intelectual
-
-### Derecho de Autor. Obras publicadas AAAA-AAAA - por año
+### Derecho de autor. Obras publicadas AAAA-AAAA - por año
 
 -   **Nombre del archivo:** derecho-autor-AAAA-AAAA.zip
 
@@ -131,27 +67,11 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
-### Derecho de Autor. Obras publicadas AAAA-AAAA - unificado
+### Derecho de autor. Obras publicadas AAAA-AAAA - unificado
 
 -   **Nombre del archivo:** derecho-autor-unificado-AAAA-AAAA.zip
 
 -   **Descripción del contenido:** archivo comprimido que contiene las obras registradas en la Dirección Nacional del Derecho de Autor entre años organizados en un archivo unificado.
-
--   **Formato:** ZIP
-
-### Declaraciones juradas de obras editadas - AAAA
-
--   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.zip
-
--   **Descripción del contenido:** archivo comprimido que contiene las declaraciones juradas de obras editadas en el año AAAA.
-
--   **Formato:** ZIP
-
-### Derecho de Autor. Publicacione periódicas - AAAA
-
--   **Nombre del archivo:** derecho-autor-publicaciones-periodicas-AAAA.zip
-
--   **Descripción del contenido:** archivo comprimido que contiene las publicaciones periódicas en el año AAAA.
 
 -   **Formato:** ZIP
 
@@ -161,10 +81,6 @@ Notas
 [Ley 27.275 - Derecho de Acceso a la Información Pública](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
 [Ley 11.723 - Régimen Legal de la Propiedad Intelectual](http://servicios.infoleg.gob.ar/infolegInternet/anexos/40000-44999/42755/texact.htm)
-
-[Decreto Nº 16.697 - Declaración jurada de obras editadas](http://servicios.infoleg.gob.ar/infolegInternet/anexos/85000-89999/85124/norma.htm)
-
-[Disposición 7/2018 - Declaraciones juradas de obras editadas por medio del sistema de Plataforma de Trámites a Distancia (TAD)](http://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/311552/norma.htm)
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
 
