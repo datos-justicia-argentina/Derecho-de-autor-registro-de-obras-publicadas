@@ -27,11 +27,11 @@ Recursos disponibles
 
 ### Derecho de autor. Obras publicadas AAAA
 
--   **Nombre del archivo:** derecho-autor-AAAA.csv / derecho-autor-AAAA.xls
+-   **Nombre del archivo:** derecho-autor-AAAA.csv / derecho-autor-AAAA.xlsx
 
 -   **Descripción del contenido:** detalle de las obras alcanzadas por la Ley 11.723 de Régimen Legal de la Propiedad Intelectual registradas en la Dirección Nacional del Derecho de Autor.
 
--   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLSX
 
 -   **Rango temporal:** detalle de las obras publicadas desde julio de 1999 hasta la fecha consignada como "Datos actualizados al"
 
