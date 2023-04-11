@@ -47,9 +47,9 @@ Recursos disponibles
 
 -   **obra_titulo (string):** título de la obra
 
--   **participacion_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos
+-   **titular_rol (string):** se describe que rol cumple el titular del derecho de propiedad intelectual. Puede tomar los valores autor, editor, traductor, director, titular o combinaciones entre estos
 
--   **participante_nombre (string):** nombre del titular del derecho de propiedad intelectual
+-   **autor_nombre (string):** nombre del titular del derecho de propiedad intelectual
 
 -   **titular_tipo_persona (string):** tipo de titular del derecho de propiedad intelectual. (este campo es informado a partir del año 2017). Puede tomar los valores:
 
@@ -57,7 +57,7 @@ Recursos disponibles
 
 -   Persona Jurídica
 
--   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
+-   **numero_estandard_internacional (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
 ### Derecho de autor. Obras publicadas AAAA-AAAA - por año
 
